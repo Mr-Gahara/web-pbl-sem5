@@ -1,0 +1,1 @@
+contoh dasar penggunaan git, model boneka
